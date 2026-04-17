@@ -1,0 +1,28 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "research-agents",
+  "owner": {
+    "name": "QianWangX",
+    "email": "qianwang0502@outlook.com"
+  },
+  "description": "Specialized deep learning research agents for Claude Code. Helps individual researchers design, implement, execute, and debug experiments efficiently without losing autonomy.",
+  "plugins": [
+    {
+      "name": "research-agents",
+      "description": "A team of six specialized agents for deep learning research: Planner, Engineer, Operator, Auditor, Tracer, and Cleaner. Includes /init to set up your project.",
+      "version": "1.2.0",
+      "source": ".",
+      "category": "research",
+      "keywords": [
+        "research",
+        "deep-learning",
+        "neural-networks",
+        "agents",
+        "experiment",
+        "pytorch",
+        "machine-learning"
+      ],
+      "homepage": "https://github.com/QianWangX/research-agents"
+    }
+  ]
+}
