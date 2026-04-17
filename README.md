@@ -40,7 +40,7 @@ This is also **not** production-grade software engineering tooling. The code qua
 **Initialize your project** (run once per project):
 
 ```
-/research-agents:research-init
+/research-init
 ```
 
 This scans your project, asks a few questions about your model, dataset, and goal, and writes a `PROJECT_CONTEXT.md` to your project root. All agents read this file before doing any work. Keep it updated as your project evolves.
