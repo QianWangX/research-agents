@@ -1,0 +1,16 @@
+{
+  "name": "research-agents-marketplace",
+  "owner": {
+    "name": "Qian Wang"
+  },
+  "plugins": [
+    {
+      "name": "research-agents",
+      "source": {
+        "source": "github",
+        "repo": "QianWangX/research-agents"
+      },
+      "description": "A team of specialized deep learning research agents: Planner, Engineer, Operator, Auditor, Tracer, and Cleaner."
+    }
+  ]
+}
