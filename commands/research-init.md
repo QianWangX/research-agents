@@ -1,5 +1,5 @@
 ---
-name: init
+name: research-init
 description: >
   Initialize the research agent suite for this project. Generates a
   PROJECT_CONTEXT.md file in the project root populated with your project
