@@ -34,6 +34,7 @@ This is also **not** production-grade software engineering tooling. The code qua
 **Install:**
 
 ```bash
+/plugin marketplace add QianWangX/research-agents
 /plugin install research-agents@QianWangX/research-agents
 ```
 
