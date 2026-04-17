@@ -1,4 +1,4 @@
-# Research Agents for Claude Code
+# 🤖 Research Agents for Claude Code
 
 A set of specialized Claude Code agents for deep learning researchers who want to move faster without losing control of their work.
 
