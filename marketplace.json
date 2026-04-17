@@ -9,8 +9,11 @@
     {
       "name": "research-agents",
       "description": "A team of six specialized agents for deep learning research: Planner, Engineer, Operator, Auditor, Tracer, and Cleaner. Includes /init to set up your project.",
-      "version": "1.2.0",
-      "source": ".",
+      "version": "1.0.0",
+      "source": {
+        "type": "github",
+        "repo": "QianWangX/research-agents"
+      },
       "category": "research",
       "keywords": [
         "research",
