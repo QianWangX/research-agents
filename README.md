@@ -34,8 +34,8 @@ This is also **not** production-grade software engineering tooling. The code qua
 **Install:**
 
 ```bash
-/plugin marketplace add your-username/research-agents
-/plugin install research-agents@your-username/research-agents
+/plugin marketplace add QianWangX/research-agents
+/plugin install research-agents@QianWangX/research-agents
 ```
 
 **Initialize your project** (run once per project):
