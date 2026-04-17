@@ -1,5 +1,5 @@
 {
   "name": "research-agents",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A team of specialized deep learning research agents: Planner, Engineer, Operator, Auditor, Tracer, and Cleaner. Run /init to set up your project before using agents."
 }

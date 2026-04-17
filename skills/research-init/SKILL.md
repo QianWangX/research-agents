@@ -5,7 +5,7 @@ description: >
   PROJECT_CONTEXT.md file in the project root populated with your project
   details. Run this once before using any agents. Safe to re-run — it
   will warn before overwriting an existing file.
-tools: [Read, Write, Glob]
+allowed-tools: [Read, Write, Glob]
 ---
 
 # ROLE
